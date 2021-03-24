@@ -4,7 +4,7 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
 **Tasks**:
 
 1.	
-    **ML: R-Programing: Fuzzy Text Match**
+    **ML: R-Programing: Fuzzy Text Match** [Solution](./Solution/Task 1 R.ipynb)
 
     a.	Read excel file. (DocumentData.xlsx)
     
@@ -13,8 +13,6 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     c.	Predict Best Match of Test data docs from Training data docs
     
     d.	Output Matched docs, Count of Matched docs and Confidence score.
-    
-[Solution](./Solution/Task 1 R.ipynb)
 
    **ML: P-Prog: Model Fitting**
     
