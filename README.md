@@ -3,7 +3,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
 
 **Tasks**:
 
-1.	ML: R-Programing: Fuzzy Text Match
+1.	**ML: R-Programing: Fuzzy Text Match**
 
     a.	Read excel file. (DocumentData.xlsx)
     
@@ -13,7 +13,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
     
     d.	Output Matched docs, Count of Matched docs and Confidence score.
 
-    ML: P-Prog: Model Fitting
+   ** ML: P-Prog: Model Fitting**
     
     a.	Read csv file(TestParam.csv)
     
@@ -25,7 +25,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
     
     e.	Show accuracy of model.
 
-2.	R-Programming: Read EmployeeData xlsx file(3 sheets)
+2.	**R-Programming: Read EmployeeData xlsx file(3 sheets)**
 
     a.	Add all files
     
@@ -35,7 +35,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
     
     d.	Club data by Dept and show output as: Dept | Salary_Range | Num_Of_Employees.
 
-3.	Text based clustering (NLP) : Perform unsupervised topic modelling of unlabeled text descriptions
+3.	**Text based clustering (NLP) : Perform unsupervised topic modelling of unlabeled text descriptions**
 
     a.	Perform preprocessing and cleaning  text data 
     
@@ -43,7 +43,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
     
     c.	Run topic modelling clustering algorithm to label text descriptions with proper category
 
-4.	Deep learning : Build a neural net model for binary classification (Data :- deep_learning.csv)
+4.	**Deep learning : Build a neural net model for binary classification (Data :- deep_learning.csv)**
 
     a.	Create train/test set and construct a model (using Keras or any other appropriate library)
     
