@@ -14,7 +14,7 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     
     d.	Output Matched docs, Count of Matched docs and Confidence score.
     
-[Solution](./Solution/Task 1 R.ipynb)
+    [Solution]("./Solution/Task 1 R.ipynb")
 
    **ML: P-Prog: Model Fitting**
     
