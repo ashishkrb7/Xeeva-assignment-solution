@@ -1,7 +1,7 @@
 # Xeeva-assignment-solution
 This repo contains my submission to Assignment by Xeeva India Pvt Ltd
 
-Tasks:
+**Tasks**:
 
 1.	ML: R-Programing: Fuzzy Text Match
 
