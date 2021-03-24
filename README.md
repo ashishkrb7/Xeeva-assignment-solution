@@ -13,7 +13,7 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
     
     d.	Output Matched docs, Count of Matched docs and Confidence score.
 
-   ** ML: P-Prog: Model Fitting**
+   **ML: P-Prog: Model Fitting**
     
     a.	Read csv file(TestParam.csv)
     
