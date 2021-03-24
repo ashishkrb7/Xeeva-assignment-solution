@@ -28,8 +28,8 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     d.	Predict label for test data ( Label is outcome)
     
     e.	Show accuracy of model.
-    
-   [Solution](./Solution/Task%201%20Python.ipynb)
+     
+    [Solution](./Solution/Task%201%20Python.ipynb)
 
 2.	**R-Programming: Read EmployeeData xlsx file(3 sheets)**
 
@@ -41,7 +41,7 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     
     d.	Club data by Dept and show output as: Dept | Salary_Range | Num_Of_Employees.
     
-   [Solution](./Solution/Task%202%20R.ipynb)
+    [Solution](./Solution/Task%202%20R.ipynb)
 
 3.	**Text based clustering (NLP) : Perform unsupervised topic modelling of unlabeled text descriptions**
 
@@ -65,4 +65,4 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     
     e.	And save the model object
     
-   [Solution](./Solution/Task%204%20Python.ipynb)
+    [Solution](./Solution/Task%204%20Python.ipynb)
