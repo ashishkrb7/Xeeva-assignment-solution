@@ -1,5 +1,5 @@
 # Xeeva-assignment-solution
-This repo contains my submission to Assignment by Xeeva India Pvt Ltd
+This repo contains my submission to the assignment by Xeeva India Pvt Ltd
 
 **Tasks**:
 
