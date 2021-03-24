@@ -1,6 +1,6 @@
 # Xeeva-assignment-solution
 This repo contains my submission to the assignment by Xeeva India Pvt Ltd
-[Solution](./Solution/Task-1-R.ipynb)
+[Solution](./Solution/Task%201%20R.ipynb)
 
 **Tasks**:
 
