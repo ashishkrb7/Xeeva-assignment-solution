@@ -4,9 +4,13 @@ This repo contains my submission to Assignment by Xeeva India Pvt Ltd
 Tasks:
 
 1.	ML: R-Programing: Fuzzy Text Match
+
     a.	Read excel file. (DocumentData.xlsx)
+    
     b.	Create test/training sample set
+    
     c.	Predict Best Match of Test data docs from Training data docs
+    
     d.	Output Matched docs, Count of Matched docs and Confidence score.
 
     ML: P-Prog: Model Fitting
