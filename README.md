@@ -1,10 +1,11 @@
 # Xeeva-assignment-solution
 This repo contains my submission to the assignment by Xeeva India Pvt Ltd
+[Solution](./Solution/Task 1 R.ipynb)
 
 **Tasks**:
 
 1.	
-    **ML: R-Programing: Fuzzy Text Match** [Solution](./Solution/Task 1 R.ipynb)
+    **ML: R-Programing: Fuzzy Text Match** 
 
     a.	Read excel file. (DocumentData.xlsx)
     
