@@ -51,7 +51,7 @@ This repo contains my submission to the assignment by Xeeva India Pvt Ltd
     
     c.	Run topic modelling clustering algorithm to label text descriptions with proper category
 
-   [Solution](./Solution/Task%203%20Python.ipynb)
+    [Solution](./Solution/Task%203%20Python.ipynb)
 
 4.	**Deep learning : Build a neural net model for binary classification (Data :- deep_learning.csv)**
 
